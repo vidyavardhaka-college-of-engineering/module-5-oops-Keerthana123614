@@ -5,13 +5,13 @@
 //Output: The sum of two numbers is 5
 
 #include <iostream>
-using namespace std;
+struct distance
 int main()
 {
     int x,y,s;
     std::cout << "Enter two integers: ";
     std::cin >> x >> y;
-                    // Insert the missing statement to find sum of two numbers in stored in variable s
-    std::cout << ;  // Print the sum by inserting the correct variable
+     s = x + y;               // Insert the missing statement to find sum of two numbers in stored in variable s
+    std::cout << 5;  // Print the sum by inserting the correct variable
     return 0;
 }

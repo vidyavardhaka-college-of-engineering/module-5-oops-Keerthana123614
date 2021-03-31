@@ -5,7 +5,7 @@
 //Output: The sum of two numbers is 5
 
 #include <iostream>
-using namespace std;
+struct distance
 int main()
 {
     int x,y,s;
